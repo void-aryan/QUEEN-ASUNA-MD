@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/INCONNU-BOY/data/main/asuna.jpg" width="800"/>
+  <img src="https://i.pinimg.com/originals/5c/da/6e/5cda6e53d73a51b7f8f1bce2187106de.jpg" width="800"/>
 </p>
 
 ---
